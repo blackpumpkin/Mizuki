@@ -12,11 +12,37 @@ if (!siteConfig.featurePages.diary) {
 // 示例即刻短文数据
 const moments = [
 	{
+		id: 5,
+		content:
+			"桌面图标的间距突然变的很大，在网上找到了解决办法：WIN+R打开运行，输入regedit打开注册表编辑器，找到HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics，修改IconSpacing和IconVerticalSpacing项的值为-1125，重启电脑即可。另，如果桌面图标的大小发生变化，则在相同的目录下修改ShellIconSize的值为32.",
+		date: "2024-12-11T22:00:00Z",
+	},
+	{
+		id: 4,
+		content:
+			"入职后用到了某CAD软件，其拥有检测盗版功能，会使绘制的图纸显示不全。后在b站评论区找到了解决方法：打开{软件所在位置}/SYS,将config.tpr重命名为config_backup.tpr即可。",
+		date: "2024-12-04T11:00:00Z",
+	},
+	{
+		id: 3,
+		content:
+			"收到了offer.即使这份工作并不是我最中意的，但还是走一步看一步吧。",
+		date: "2024-11-21T16:40:00Z",
+		images: ["https://pic.imgdb.cn/item/6745faafd0e0a243d4d17827.png"],
+		//images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],//
+	},
+	{
+		id: 2,
+		content:
+			"拍手办时的垃圾布景，材料都是某多多的便宜货。顺便记录一下这些东西的价格：LED灯2：33.25RMB+亚克力板7.5RMB+A3三面补光卡纸8.79RMB+1.51m黑色背景布7.35RMB+手机支架13.79RMB+604072小桌子14.9RMB=85.58RMB",
+		date: "2024-11-15T17:20:00Z",
+		images: ["https://pic.imgdb.cn/item/6745fb00d0e0a243d4d17835.jpg"],
+	},
+	{
 		id: 1,
 		content:
-			"The falling speed of cherry blossoms is five centimeters per second!",
-		date: "2025-01-15T10:30:00Z",
-		images: ["/images/diary/sakura.jpg", "/images/diary/1.jpg"],
+			"提出离职了。终于要和施工单位说再见了。",
+		date: "2024-07-07T09:00:00Z",
 	},
 ];
 

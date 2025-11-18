@@ -254,6 +254,7 @@ export const navBarConfig: NavBarConfig = {
 			icon: "material-symbols:info",
 			children: [LinkPreset.About, LinkPreset.Friends],
 		},
+		/*
 		{
 			name: "其它",
 			url: "#",
@@ -275,7 +276,8 @@ export const navBarConfig: NavBarConfig = {
 					icon: "material-symbols:timeline",
 				},
 			],
-		},
+		},    
+		*/
 	],
 };
 
@@ -398,7 +400,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 是否启用该组件（现在通过统一配置控制）
 			enable: true,
 			// 组件显示顺序
-			order: 2,
+			order: 1,
 			// 组件位置："top" 表示固定在顶部
 			position: "top",
 			// CSS 类名

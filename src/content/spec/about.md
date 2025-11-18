@@ -1,49 +1,43 @@
+# 一、个人介绍
 
-This website is built with the **Astro** framework using the [Mizuki](https://github.com/matsuzaka-yuki/mizuki) theme.
+<img align="right" src="https://figure.pages.dev/img/avatar.jpg" style="zoom:50%;" />
 
-::github{repo="matsuzaka-yuki/Mizuki"}
+* **昵称**：黑心の南瓜/blackpumpkin，你可以叫我南瓜
+* **性别**：男生
+* **年龄**：26
+* **生日**：4月10日
+* **毕业院校**：北京XX大学（某辣鸡211本科），目前已毕业工作
+* **专业**：土木工程
+* **位置**：北京
+* **技能**：
+  * **土木专业**：
+    * AutoCad ⭐⭐⭐
+    * Revit ⭐⭐
+    * SketchUp ⭐⭐
+    * Tekla ⭐
+    * Fuzor ⭐
+  * **计算机**：
+    * Python ⭐⭐
+    * 前端 (html+css+js+vue) ⭐
+  * **其他技能**：
+    * PS ⭐⭐
+    * PR ⭐
+    * AE ⭐
+    * StableDiffusion ⭐⭐
 
-## 🌟 Theme Features
+# 二、联系方式
 
-### 🎨 Design & User Experience
-- **Modern & Elegant Design** - Clean, minimalist interface with beautiful typography
-- **Fully Responsive** - Optimized for all devices from mobile to desktop
-- **Dark/Light Mode** - Automatic theme switching with smooth transitions
-- **Beautiful Typography** - Enhanced readability with JetBrains Mono font
-- **Smooth Animations** - Fluid page transitions and interactive elements
+* **QQ**：1450858504
+* **B站**：[https://space.bilibili.com/2003338](https://space.bilibili.com/2003338)
+* **steam**：[https://steamcommunity.com/id/blackpumpkin13/](https://steamcommunity.com/id/blackpumpkin13/%E2%80%B8)
 
-### 🔍 Content & Search
-- **Advanced Search** - Powered by [Pagefind](https://pagefind.app/) for fast, accurate results
-- **Enhanced Markdown** - Extended syntax with code highlighting and math support
-- **Interactive Table of Contents** - Auto-scroll navigation for long articles
-- **RSS Feed Generation** - Stay updated with automatic feed generation
-- **Reading Time Estimation** - Know how long articles take to read
-- **Post Categorization** - Organize content with tags and categories
+# 三、一些想说的
 
+**搭建博客的初衷：** 我毕业于土木工程专业，在工作以后有很多压抑的时候，有这么个自己的独立网站，在这上面写写东西，记录生活，吐吐苦水，还可以免于被熟悉的人注意到，这对我来说非常的有用！而且我一直觉得拥有自己的独立网站是一件十分酷的事情！
 
+另外，目前土木专业已走向夕阳，自己有心转行而能力不足，因此这里也可以成为一个记录自己学习过程的平台，通过这里，也许可以与其他专业的大拿进行交流，这对我来说，也可以是一个自我提升的平台。~~希望我可以通过自己的努力，早日与钢筋、模板、混凝土等说再见，成为一个可以正常工作、生活的人，活出自己的生活。~~
+2024.08.18更新：目前已离职施工单位一个月，努力找工作中。
 
-### 📱 Special Pages
-- **Anime Tracking Page** - Track your anime watching progress with ratings
-- **Friends Links Page** - Showcase friend websites with beautiful cards
-- **Diary/Moments Page** - Share life moments like social media posts
-- **Archive Page** - Organized timeline view of all posts
-- **About Page** - Customizable personal introduction (this page!)
+**博客内容：** 分享一些自己的生活和想法，记录自己学习的过程。
 
-### 🛠 Technical Features
-- **Enhanced Code Blocks** - Powered by [Expressive Code](https://expressive-code.com/)
-- **Math Support** - LaTeX rendering with KaTeX for mathematical expressions
-- **Image Optimization** - PhotoSwipe gallery with lazy loading
-- **SEO Optimized** - Built-in sitemap and meta tags for better search visibility
-- **Performance Optimized** - Fast loading with caching and optimization
-- **Comment System Ready** - Integration support for Twikoo comments
-
-### 🎯 Advanced Markdown Features
-- **Callouts & Admonitions** - Beautiful info boxes with `> [!NOTE]`, `> [!TIP]`, `> [!WARNING]`
-- **Mathematical Equations** - Write LaTeX math with `$inline$` and `$$block$$` syntax
-- **GitHub Cards** - Embed repository cards with `::github{repo="user/repo"}`
-- **Syntax Highlighting** - Advanced code highlighting with line numbers
-- **Copy Code Buttons** - Easy code copying functionality
-
----
-
-*Built with ❤️ using Astro and inspired by modern web design principles.*
+**其他想说的：** 世路虽然难行，仍需不断努力，人生漫漫，吾将上下而求索！感谢每一位光临本站的大拿和朋友，欢迎来交流！
